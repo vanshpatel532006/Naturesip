@@ -273,7 +273,7 @@ header {
     width: 350px;
     height: 300px;
     overflow: hidden;
-    background: url('Customize.png') center/cover no-repeat;
+    background: url('customize.png') center/cover no-repeat;
     transition: background-image 0.3s ease-in-out;
 }
 
@@ -286,7 +286,7 @@ header {
 }
 
 .feature-img3:hover {
-    background-image: url('Customize2.png');
+    background-image: url('customize2.png');
 }
 
 .feature-img img {
